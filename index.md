@@ -1,5 +1,3 @@
-# Ulferno
-
 Hello there! I am a JavaScript developer who uses GitHub to store and collaborate on work.
 
 ### Projects I am working on
