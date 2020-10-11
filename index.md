@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# Ulferno
 
-You can use the [editor on GitHub](https://github.com/Ulferno/Ulferno/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello there! I am a JavaScript developer who uses GitHub to store and collaborate on work.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects I am working on
 
-### Markdown
+- [Hegarty Calculator](https://github.com/HegartyCalculator). A chrome extension which can help with HegartyMaths tasks.
+- SimpleAdmin ([Organization](https://github.com/SimpleAdminRbx) and [repo](https://github.com/crywink/SimpleAdmin)). A Roblox game-management suite as a total solution to controlling your game. I work on the web backend (pro plan).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ulferno/Ulferno/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*I will be updating this site shortly to include more of my work, and I shall update this as I work on more projects.*
