@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Stargate Horizons](https://www.roblox.com/games/3901984129/Stargate-Horizons) and [Check it Containment](https://www.roblox.com/groups/6016348/Check-it-Containment-Corporation#!/about) <br>👯 I'm working [LibreNote](https://github.com/oprogram/LibreNote) as my primary open source project<br>🌱 I’m currently learning React, NestJS & Next.js<br>💬 Ask me about aviation, spaceflight law, politics or military.<br>
+🔭 I’m currently working on [Stargate Horizons](https://www.roblox.com/games/3901984129/Stargate-Horizons) and [Check it Containment](https://www.roblox.com/groups/6016348/Check-it-Containment-Corporation#!/about) <br>👯 I'm working [LibreNote](https://github.com/oprogram/LibreNote) as my primary open source project<br>🌱 I’m currently learning Rust, React, NestJS & Next.js<br>💬 Ask me about aviation, spaceflight law, politics or military.<br>
 
 
 ## 🌐 Socials:
