@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Paragon](https://www.roblox.com/games/refer?PlaceId=9896535629&PageType=GroupDetail&LocalTimestamp={localTimestamp}) and [Stargate Horizons](https://www.roblox.com/games/3901984129/Stargate-Horizons).<br>👯 I'm working [LibreNote](https://github.com/oprogram/LibreNote) as my primary open source project<br>🌱 I’m currently learning Rust, React, NestJS & Next.js<br>💬 Ask me about aviation, spaceflight, law, politics or military.<br>
+👯 I'm working [LibreNote](https://github.com/oprogram/LibreNote) as my primary open source project<br>🌱 I’m currently learning Rust, React, NestJS & Next.js<br>💬 Ask me about aviation, spaceflight, law, politics or military.<br>
 
 
 ## 🌐 Socials:
