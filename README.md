@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on [Volute Games](https://github.com/VoluteGames)<br>
-👯 I'm working [LibreNote](https://github.com/oprogram/LibreNote) as my primary open source project<br>🌱 I’m currently learning Rust, React, NestJS & Next.js<br>💬 Ask me about aviation, spaceflight, law, politics or military.<br>
+👯 I'm working [LibreNote](https://github.com/oprogram/LibreNote) as my primary open source project<br>🌱 I’m currently learning Rust<br>
 
 
 ## 🌐 Socials:
