@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Volute Games](https://github.com/VoluteGames)<br>
-👯 I'm working [LibreNote](https://github.com/oprogram/LibreNote) as my primary open source project<br>🌱 I’m currently learning Rust<br>
+🔭 I’m currently working on [Volute Games](https://github.com/VoluteGames)<br>🌱 I’m currently learning Rust<br>
 
 
 ## 🌐 Socials:
